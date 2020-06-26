@@ -1,5 +1,5 @@
 {
-  "name": "wi-utils",
+  "name": "@revotechuet/wi-utils",
   "version": "1.0.0",
   "description": "WI Ultinity Tools",
   "main": "index.js",
