@@ -1,0 +1,23 @@
+{
+  "name": "wi-utils",
+  "version": "1.0.0",
+  "description": "WI Ultinity Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revotechUET/wil-ulti.git"
+  },
+  "keywords": [
+    "i2g",
+    "well-insight"
+  ],
+  "author": "hoangbd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revotechUET/wi-ulti/issues"
+  },
+  "homepage": "https://github.com/revotechUET/wi-ulti#readme"
+}
